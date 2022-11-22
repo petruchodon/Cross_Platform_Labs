@@ -2,10 +2,10 @@ using Syntax;
 using MongoDB.Driver;
 class Lab6 {
     public static void Main(Strings[] args) {
-        MongoClient()
-    MongoClient(String)
-    MongoClient(MongoClientSettings)
-    MongoClient(Mong
+        MongoClient();
+        MongoClient(String);
+    MongoClient(MongoClientSettings);
+        MongoClient(MongoUrl);
 
         MongoClient client = new MongoClient("mongodb://localhost:27017");
     }
