@@ -16,14 +16,7 @@ public static class Program
         }
 
     
-    //Helper class added by C++ to C# Converter:
-
-    //----------------------------------------------------------------------------------------
-    //  Copyright © 2006 - 2022 Tangible Software Solutions, Inc.
-    //  This class can be used by anyone provided that the copyright notice remains intact.
-    //
-    //  This class provides the ability to convert basic C++ 'cin' and C 'scanf' behavior.
-    //----------------------------------------------------------------------------------------
+    
     internal static class ConsoleInput
     {
         private static bool goodLastRead = false;
