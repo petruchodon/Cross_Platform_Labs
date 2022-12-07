@@ -1,0 +1,15 @@
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\obj\Debug\net6.0\Crosslab3.csproj.AssemblyReference.cache
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\obj\Debug\net6.0\Crosslab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\obj\Debug\net6.0\Crosslab3.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\obj\Debug\net6.0\Crosslab3.AssemblyInfo.cs
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\obj\Debug\net6.0\Crosslab3.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\bin\Debug\net6.0\Crosslab3.exe
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\bin\Debug\net6.0\Crosslab3.deps.json
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\bin\Debug\net6.0\Crosslab3.runtimeconfig.json
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\bin\Debug\net6.0\Crosslab3.dll
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\bin\Debug\net6.0\Crosslab3.pdb
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\obj\Debug\net6.0\Crosslab3.dll
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\obj\Debug\net6.0\refint\Crosslab3.dll
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\obj\Debug\net6.0\Crosslab3.pdb
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\obj\Debug\net6.0\Crosslab3.genruntimeconfig.cache
+C:\Users\Peter\source\repos\Crosslab3\Crosslab3\obj\Debug\net6.0\ref\Crosslab3.dll
