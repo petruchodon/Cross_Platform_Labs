@@ -1,0 +1,6 @@
+C:\Users\Peter\Desktop\cross-lab-4\DotNetTool\bin\Release\net6.0\publish\DotNetTool.exe
+C:\Users\Peter\Desktop\cross-lab-4\DotNetTool\bin\Release\net6.0\publish\DotNetTool.dll
+C:\Users\Peter\Desktop\cross-lab-4\DotNetTool\bin\Release\net6.0\publish\DotNetTool.deps.json
+C:\Users\Peter\Desktop\cross-lab-4\DotNetTool\bin\Release\net6.0\publish\DotNetTool.runtimeconfig.json
+C:\Users\Peter\Desktop\cross-lab-4\DotNetTool\bin\Release\net6.0\publish\DotNetTool.pdb
+C:\Users\Peter\Desktop\cross-lab-4\DotNetTool\bin\Release\net6.0\publish\McMaster.Extensions.CommandLineUtils.dll
